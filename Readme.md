@@ -12,3 +12,10 @@
 2. Link the upstream and push to origin
 	`git push -u origin main`
 	link the current branch ( here it is main branch) in local repository to remote origin main branch
+
+---
+
+# Activity list
+
+1. [File walk through](walkthrough/file_creation.md)
+2. [second activiy](#)
