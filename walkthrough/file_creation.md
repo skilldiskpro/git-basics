@@ -1,4 +1,4 @@
-#Activity heading
+# Activity heading
 
 ## Sub heading
 
